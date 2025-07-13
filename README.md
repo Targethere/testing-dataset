@@ -23,4 +23,4 @@ This project aims to help in early detection of cotton diseases to support susta
 
 ## Notebook
 
-> All training code is included in the [`pre-trained-cnn (Rafi).ipynb`](./pre-trained-cnn%20(Rafi).ipynb) file.
+> All training code is included in the [`pre-trained-cnn.ipynb`](./pre-trained-cnn.ipynb) file.
